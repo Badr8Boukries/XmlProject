@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doctorants>
+    <doctorant>
+        <nom>Badr Boukries</nom>
+        <code_appogee>123456</code_appogee>
+    </doctorant>
+    <doctorant>
+        <nom>Zouhair wazih</nom>
+        <code_appogee>789012</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>hassan elharchaoui</nom>
+        <code_appogee>345678</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom> ayman mohcine</nom>
+        <code_appogee>901234</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>hanna dawya</nom>
+        <code_appogee>567890</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>ilyass elmazidi</nom>
+        <code_appogee>112233</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>walid boukhari </nom>
+        <code_appogee>223344</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>khadija el arabi </nom>
+        <code_appogee>334455</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>wassim boukries</nom>
+        <code_appogee>445566</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>alae mchimcha</nom>
+        <code_appogee>556677</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>hiba ziati</nom>
+        <code_appogee>667788</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>wiam taybi</nom>
+        <code_appogee>778899</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>khaoula moussa</nom>
+        <code_appogee>889900</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom> mohammed ben tata </nom>
+        <code_appogee>998877</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>mohammed benaamer</nom>
+        <code_appogee>887766</code_appogee>
+    </doctorant>
+        <doctorant>
+        <nom>zakaria darouich</nom>
+        <code_appogee>776655</code_appogee>
+    </doctorant>
+
+    <!-- Ajoutez d'autres éléments de doctorants ici si nécessaire -->
+</doctorants>
